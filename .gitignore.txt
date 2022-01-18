@@ -432,6 +432,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+baekjoon/Debug
 Debug/
 **/Debug
 
